@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-img{
+    width: 100px;
+}
+#menu-items-2{
+    margin: 63px;
+    padding: 15px;
+  color: black;
+    position: relative;
+top: -131px;
+left:200px;
+}
+
+a{
+    margin: 20px;
+    font-size: 40px;
+}
+
+.search input[type=text]{
+    width:300px;
+    height:25px;
+    border-radius:25px;
+    border:black;
+}
+
+
+
+.search{
+    float:right;
+    margin: -247px;;
+    width: 436px;
+    
+
+    
+
+}
+      
+.search button{
+    background-color: #0074D9;
+    size: 20px;
+    color: #f2f2f2;
+    float: right;
+    padding: 10px 17px;
+    margin-right: 176px;
+    font-size: 20px;
+    border:black;
+    border-radius: 25px;
+    cursor:pointer;
+}
+
+
+image{
+    margin: 400px;
+}
+#carosel{
+    
+    width: 50px;
+    z-index: 1;
+    padding-top: 50px;
+}
+#search-box{
+    background-color: white;
+    margin-right: 60px;
+    padding: 5px 10px ;
+    border:2px solid gold;
+    position: relative;
+}
+
+#search-text{
+    outline:none;
+    border:none;
+    background-color: white;
+    font-size: 16px;
+}
+footer{
+    margin-top: 8%;
+    display:flex;
+    border-top: 5px solid silver;
+    width:100%;
+    justify-content: space-between;
+    margin-bottom: 4%;
+    padding-top: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
+    box-sizing: border-box;
+
+}
+
+h4{
+    font-family:'Courier New', Courier, monospace ;
+color: blue;
+font-size: 30px;
+text-transform: uppercase;
+letter-spacing: 2px;
+}
+
+.news-img{
+    width: 300px;
+    height: 200px;
+    border:5px solid goldenrod;
+    display: inline-block;
+    margin: 20px 20px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px silver;
+    cursor:pointer;
+    transition: all 200ms ease;
+
+}
+
+.news-img:hover{
+    border:5px solid gold;
+    box-shadow: 0 0 5px gold;
+}
+
+.background-image{
+    width: 400px;
+    height: fit-content;
+}
