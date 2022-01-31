@@ -1,3 +1,3 @@
 <?php
-$con=mysqli_connect("localhost","root","","youtube");
+$con=mysqli_connect("localhost","root","password","ipl");
 ?>
